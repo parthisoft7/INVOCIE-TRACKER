@@ -1,0 +1,5 @@
+{
+  "name": "SmartInvoice Tracker",
+  "description": "A professional, mobile-friendly invoice tracking system where users can create & manage invoices, track payment statuses, and send WhatsApp payment reminders.",
+  "requestFramePermissions": []
+}
